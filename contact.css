@@ -1,0 +1,37 @@
+.Homepage {
+    text-align: left;
+   a{ text-decoration: none;
+      background: linear-gradient(90deg, red,yellow, green);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+     }
+    margin-left: 80px;
+    margin-top: 20px;
+    font-size: 100px;
+    display: block;
+    
+}
+
+
+
+body{
+    background-image: url(https://c1.wallpaperflare.com/preview/951/901/105/phone-telephone-dial-dial-phone.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 100px;
+    margin-top: 222px;
+     color: #14b8c7; /* Gold */
+         text-shadow: 
+         0 0 15px #ffa600;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 255, 191);
+}
+
+p{
+    text-align: center;
+    color: rgb(231, 223, 223);
+}

@@ -1,0 +1,47 @@
+.Homepage {
+    text-align: left;
+   a{ text-decoration: none;
+      background: linear-gradient(90deg, red,yellow, green);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+     }
+    margin-left: 80px;
+    margin-top: 20px;
+    font-size: 100px;
+    display: block;
+    
+}
+
+body{
+    font-size: 80px;
+    margin-top: 20px;
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1456547836/photo/three-white-question-marks-a-blue-wall-background.jpg?b=1&s=612x612&w=0&k=20&c=wAzrHwBThXyvXVi63SFn6yzOztFW16Ee2r3WIigTIEY=);
+    background-size: cover;
+    background-position: center;
+    color: beige
+}
+
+
+.one{
+    background-image: url(https://w0.peakpx.com/wallpaper/816/750/HD-wallpaper-question-sign-art-creative-questions.jpg);
+     background-size: cover;
+    background-position: center;
+    margin-left: 800px;
+    margin-right: 800px;
+    border-radius: 1000px;
+}
+
+p{
+    background-color: black;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 1000px;
+}
+a{
+    text-decoration: none;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}

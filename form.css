@@ -1,0 +1,35 @@
+.Homepage {
+    text-align: left;
+   a{ text-decoration: none;
+      background: linear-gradient(90deg, red,yellow, green);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+     }
+    margin-left: 80px;
+    margin-top: 20px;
+    font-size: 100px;
+    display: block;
+}
+.all{
+    font-size: 50px;
+}
+body{
+      position: relative;
+  background-image: url(https://c0.wallpaperflare.com/preview/140/101/291/money-transfer-mobile-banking.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+ h1{
+      text-align: center;
+            }
+  h2{
+
+      text-decoration-line: overline;
+            }
+           
+ .form{
+      text-align: center;
+            }
+        

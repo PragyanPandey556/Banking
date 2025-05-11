@@ -1,0 +1,29 @@
+.Homepage {
+    text-align: left;
+   a{ text-decoration: none;
+      background: linear-gradient(90deg, red,yellow, green);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+   }}
+
+   body{
+    font-size: 100px;
+    background-image: url(https://w0.peakpx.com/wallpaper/289/712/HD-wallpaper-telephone-dial-retro-aesthetics.jpg);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 100px;
+    text-align: center;
+    color: #0032fc; /* Gold */
+         text-shadow: 
+         0 0 15px #15120b;
+   }
+
+   p{
+    background-color: azure;
+    margin-left: 200px;
+    margin-right: 200px;
+   }
+   li{
+    background-color: aliceblue;
+   }
